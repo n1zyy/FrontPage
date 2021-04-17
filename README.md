@@ -15,3 +15,5 @@ I'd like to tidy this up. More ambitiously, I'd like to try to convert this to C
 Tragically, the hit counters didn't seem to save properly. I'll have to dig more.
 
 I didn't intend to mirror the other pages, but they lead to a version with a depressing gray theme. The link back doesn't work, because the page was initially called newpage1.htm and I renamed each to a theme-specific one.
+
+![FrontPage logo](https://raw.githubusercontent.com/n1zyy/FrontPage/main/192.168.1.13/images/frontpag.gif)
