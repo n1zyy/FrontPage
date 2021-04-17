@@ -2,7 +2,7 @@
 
 Don't lie&mdash;I'm not the only person with profound nostalgia for old FrontPage 98 themes. They weren't all _good_, but that's half the fun.
 
-![Downtown theme](_docs/downtown.png)
+![Downtown theme](https://raw.githubusercontent.com/n1zyy/FrontPage/main/_doc/downtown.png)
 
 I procured and launched FrontPage 98, and put together a page with a bunch of HTML components, then proceeded to save it in every theme available, download it with wget, and commit the result here.
 
